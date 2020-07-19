@@ -28,9 +28,9 @@ function ternaryTeenager(age) {
 
 function switchAge(age) {
   swtich(age >= 13 && age < 20) {
-    case true: 
+    case true:
       return "You are a teenager"
-    default: 
+    default:
       return "You have an age"
   }
 }
